@@ -1,0 +1,54 @@
+RAHUL SHARMA
+rahul.sharma@email.com | +91-9876543210 | Bangalore, India
+
+EDUCATION
+Bachelor of Technology in Computer Science Engineering
+XYZ Institute of Technology, Bangalore
+CGPA: 8.5/10.0 | 2021-2025
+
+TECHNICAL SKILLS
+Languages: Python, Java, SQL, JavaScript, C++
+Data Science: Machine Learning, Deep Learning, Data Analysis, Statistics
+ML Libraries: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Keras
+Tools: Git, Docker, Jupyter, VS Code, Excel
+Cloud: AWS, Azure
+Databases: MySQL, PostgreSQL, MongoDB
+Visualization: Tableau, Power BI, Matplotlib, Seaborn
+
+EXPERIENCE
+Data Science Intern | ABC Technology Solutions, Bangalore
+June 2024 - August 2024
+- Developed machine learning models for customer churn prediction using Python and Scikit-learn
+- Analyzed datasets with 500K+ records using Pandas and SQL
+- Created interactive dashboards using Tableau for business insights
+- Improved model accuracy from 75% to 89% through feature engineering
+- Collaborated with cross-functional teams using Agile methodology
+
+PROJECTS
+Customer Segmentation using Machine Learning
+- Built K-means clustering model to segment customers into 5 distinct groups
+- Processed and cleaned dataset of 100K+ customer records using Pandas
+- Visualized results using Matplotlib and Seaborn
+- Technologies: Python, Scikit-learn, Pandas, NumPy
+
+Stock Price Prediction using Deep Learning
+- Developed LSTM neural network using TensorFlow for stock price forecasting
+- Achieved 92% accuracy on test dataset
+- Deployed model as REST API using Flask
+- Technologies: Python, TensorFlow, Keras, Flask, Docker
+
+Sentiment Analysis Web Application
+- Built NLP model using PyTorch for tweet sentiment classification
+- Created web interface using Streamlit
+- Processed 50K+ tweets with 85% accuracy
+- Technologies: Python, PyTorch, NLP, Streamlit
+
+CERTIFICATIONS
+- Machine Learning Specialization - Coursera (Andrew Ng)
+- AWS Certified Cloud Practitioner
+- Python for Data Science - IBM
+
+ACHIEVEMENTS
+- Won 2nd place in college hackathon (Team of 4)
+- Published research paper on ML applications in healthcare
+- Active contributor on GitHub with 500+ contributions

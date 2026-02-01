@@ -2,6 +2,7 @@ import streamlit as st
 from resume_parser import analyze_resume
 from job_parser import parse_job_description
 from matcher import analyze_match
+# from styles import get_custom_css
 
 # Page config
 st.set_page_config(
@@ -9,6 +10,8 @@ st.set_page_config(
     page_icon="🧠",
     layout="wide"
 )
+# Apply custom CSS
+# st.markdown(get_custom_css(), unsafe_allow_html=True)
 
 # Custom CSS for better styling
 st.markdown("""
@@ -59,9 +62,9 @@ col1, col2 = st.columns([1, 1])
 with col1:
     st.write("### 📤 Upload Your Resume")
     uploaded_file = st.file_uploader(
-        "Choose a PDF or Word file",
-        type=['pdf', 'docx'],
-        help="Upload your resume in PDF or Word format"
+    "Choose a PDF, Word, or TXT file",
+    type=['pdf', 'docx', 'txt'],  # Added 'txt'
+    help="Upload your resume in PDF, Word, or plain text format"
     )
     
     if uploaded_file:
